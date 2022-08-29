@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Scenes/JA - Scene.unity.meta
 guid: df4402ebbdb09ef489137e5731e82b94
+========
+guid: d849b106e9364de44a39014ecdfe47cf
+>>>>>>>> fb369ece1c4575461adb65d03d20cc40cee84eae:Assets/Scenes/Asset Showcase.unity.meta
 DefaultImporter:
   externalObjects: {}
   userData: 
