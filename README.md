@@ -45,25 +45,25 @@ Staged asset implemented in Unity, functioning and looking like the originally-p
 # Pipeline
 
 ## I am using Blender
-John
-William
-Sean
-Joseph
-Ushanté
-Hayden
-Leyla
-Greg
+* John
+* William
+* Sean
+* Joseph
+* Ushanté
+* Hayden
+* Leyla
+* Greg
 
 ## I am using Maya
-Brendon
-Kerim
-Conrad
-Bryce
-Domara
-Thomas K
-Thomas G
-Chantelle
-Lily
-Campbell
-Chrstian
-Ronan
+* Brendon
+* Kerim
+* Conrad
+* Bryce
+* Domara
+* Thomas K
+* Thomas G
+* Chantelle
+* Lily
+* Campbell
+* Chrstian
+* Ronan
