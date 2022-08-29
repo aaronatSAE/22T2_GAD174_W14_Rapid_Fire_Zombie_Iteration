@@ -1,15 +1,10 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
 <<<<<<<< HEAD:Assets/Scenes/Sean.meta
 guid: cd4e06b8b1567df4dbbe170402569754
 folderAsset: yes
 ========
 guid: d849b106e9364de44a39014ecdfe47cf
 >>>>>>>> dcd24d04ebb1e2adcce0e1684aa020c6d56bb952:Assets/Scenes/Asset Showcase.unity.meta
-=======
-guid: d12803d79c768b448b014e750e862855
-folderAsset: yes
->>>>>>> dcd24d04ebb1e2adcce0e1684aa020c6d56bb952
 DefaultImporter:
   externalObjects: {}
   userData: 

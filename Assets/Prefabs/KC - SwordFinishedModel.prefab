@@ -44,7 +44,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1853218963722317510}
   m_Layer: 0
-  m_Name: SwordFinishedModel
+  m_Name: KC - SwordFinishedModel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
